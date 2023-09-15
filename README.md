@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **DSA, React.js**
 
-- 👯 I’m looking to collaborate on **frontend and full stack projects.**
-
-- 📫 How to reach me **singhyash0026@gmail.com**
+- 📫 How to reach me: **singhyash0026@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
