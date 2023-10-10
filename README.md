@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">A passionate fullstack developer.</h3>
 
-- 🔭 I’m currently working on **my Portfolio**
+- 🔭 I’m currently working on **few projects**
 
 - 🌱 I’m currently learning **DSA, React.js**
 
