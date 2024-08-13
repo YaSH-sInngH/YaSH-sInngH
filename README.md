@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **frontend and full stack projects.**
 
-- 👨‍💻 All of my projects are available at [https://yash-singh-portfolio.netlify.app/](https://yash-singh-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at https://yash-singh.onrender.com/
 
 - 📫 How to reach me **singhyash0026@gmail.com**
 
