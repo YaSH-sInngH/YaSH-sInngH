@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/yashsingh1682" target="blank"><img src="https://img.shields.io/twitter/follow/yashsingh1682?logo=twitter&style=for-the-badge" alt="yashsingh1682" /></a> </p>
 
-- 🔭 I’m currently working on **React Projects.**
+- 🔭 I’m currently working on **Backend technologies.**
 
-- 🌱 I’m currently learning **DSA, React.js**
+- 🌱 I’m currently learning **DSA, Java Full Stack Development**
 
-- 👯 I’m looking to collaborate on **frontend and full stack projects.**
+- 👯 I’m looking to collaborate on **full stack projects.**
 
 - 👨‍💻 All of my projects are available at https://yash-singh.onrender.com/
 
