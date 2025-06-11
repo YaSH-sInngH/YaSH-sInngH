@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Backend technologies.**
 
-- 🌱 I’m currently learning **DSA, Java Full Stack Development**
+- 🌱 I’m currently learning **Devops**
 
 - 👯 I’m looking to collaborate on **full stack projects.**
 
