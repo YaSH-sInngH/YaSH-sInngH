@@ -9,8 +9,6 @@
   I'm a <b>GenAI-based Full Stack Developer</b> focused on building modern web applications integrated with <b>AI-powered solutions</b>.
 </p>
 
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h2>Tech Stack</h2>
 <p style="display: inline-block;" align="center">
   <kbd>
